@@ -26,7 +26,7 @@ const Navbar = () => {
 			 >
 
 
-				<div className="flex gap-4 max-w-7xl mx-auto text-xl">
+				<div className="flex gap-4 max-w-7xl mx-auto">
 					<div>
 						<a href="/">
 							Home
